@@ -15,7 +15,6 @@
 ## General info
 Business Technology Analyst working to expand my skills.
 Certified Software Quality Engineer (CSQE) with American Society for Quality
-This change is intended to be reverted.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
